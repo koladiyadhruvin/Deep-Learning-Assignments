@@ -1,7 +1,7 @@
 # Deep Learning Assignments
 
 ## Overview
-This repositary contains the practice of deep learning assignments from scratch that for gain the knowledge of neaural networks and machine learning use in real word problems.
+This repository contains the practice of deep learning assignments from scratch that for gain the knowledge of neaural networks and machine learning use in real word problems.
 
 ## Problem Statements
 For all the assignments problem statements given in this pdf file [Deep Learning Assignments](https://github.com/koladiyadhruvin/Deep-Learning-Assignments/blob/main/Deep%20Learning%20Assignments.pdf)
